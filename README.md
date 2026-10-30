@@ -23,6 +23,6 @@ link: https://surakshanetdei.web.app/multilingual_quiz.html
 3. AI integration
 4. Interactive, scenario-based and simulated learning modules.
 5. All the modules have been designed taking into consideration rural needs and cultural context.
-<img width="6614" height="6614" alt="B229CF6F-9DCC-453F-9DB7-D6224C034257" src="https://github.com/user-attachments/assets/ec3a9eed-a3f9-417d-ac64-d3289474f618" />
+
 
 
